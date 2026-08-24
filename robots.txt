@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pmnoos.github.io/diary_app-landing/sitemap.xml
